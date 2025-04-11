@@ -60,12 +60,10 @@ Stay tuned!
 
 ## 🧑‍💻 Contributors
 
-| Name          | Role                        |
-|---------------|-----------------------------|
-| [Your Name]   | ML Engineer / Architect     |
-| [Teammate 1]  | Backend Developer           |
-| [Teammate 2]  | Data Engineer / Analyst     |
-| [Teammate 3]  | Frontend & Dashboard Design |
+| Name             | Role                                                   |
+|------------------|--------------------------------------------------------|
+| [Vishal Mehta]   | ML Engineer / Backend Developer                        |
+| [Vraj Shah]      | Data Scientist / Frontend & Dashboard Design           |
 
 ---
 
@@ -91,7 +89,7 @@ uvicorn app.main:app --reload
 # Run Streamlit Dashboard
 cd dashboard/
 streamlit run app.py
-```
+
 
 ---
 
@@ -112,7 +110,7 @@ Kartelligence-AI-Retail-Agent/
 ├── models/                     # Saved models (.pkl, .h5)
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 📜 License
@@ -123,10 +121,10 @@ This project is under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For queries, reach out at **22aiml021@charusat.edu.in** or **engineervishal007@gmail.com** or open an issue.
+For queries, reach out at **engineervishal007@gmail.com** or **shahvraj41004@gmail.com** or open an issue.
 
 ---
 
 > *Smarter shelves. Better margins. Powered by Kartelligence.* 🧠🛍️
-```
+
 ---
